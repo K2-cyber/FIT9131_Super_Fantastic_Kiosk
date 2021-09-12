@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Kiosk
+comment0.text=\n\ Write\ a\ description\ of\ class\ Kiosk\ here.\n\nKiosk\ class\ is\ the\ front\ end\ application\ which\ is\ directly\ interacting\ with\ the\ customer.\nKiosk\ class\ uses\ inputs\ from\ the\ customer\ and\ performs\ the\ necessary\ actions.\nKiosk\ class\ is\ dependent\ on\ the\ customer\ classs\ and\ random\ number\ generator\ class\ for\ showing\ the\ name\ of\ the\ customer\ and\ generating\ a\ random\ number\ for\ the\ purchasing\ part.\n\n\n\ @author\ Kapish\n\ @version\ (22nd\ April\ 2021)\n
+comment1.params=
+comment1.target=Kiosk()
+comment2.params=itemNumber
+comment2.target=int\ getItemCost(int)
+comment3.params=itemNumber
+comment3.target=java.lang.String\ getItemName(int)
+comment4.params=
+comment4.target=int\ getResponse()
+comment5.params=
+comment5.target=void\ handlerFlow()
+comment6.params=
+comment6.target=void\ printMenu()
+comment7.params=userChoice
+comment7.target=boolean\ processResponse(int)
+comment8.params=itemCost\ itemName
+comment8.target=void\ purchaseItem(int,\ java.lang.String)
+numComments=9

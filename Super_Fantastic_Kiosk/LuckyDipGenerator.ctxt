@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LuckyDipGenerator
+comment0.text=\n\ Write\ a\ description\ of\ class\ LuckyDipGenerator\ here.\n\ \n\ This\ class\ does\ one\ function\ which\ is\ of\ returning\ a\ random\ number\ using\ "math.random".\n\ "math.random\ generates\ number\ between\ 0.1\ to\ 0.9"\n\n\ @author\ Kapish\n\ @version\ (22nd\ April\ 2021)\n
+comment1.params=
+comment1.target=LuckyDipGenerator()
+comment2.params=
+comment2.target=int\ generateRandomNumber()
+numComments=3
